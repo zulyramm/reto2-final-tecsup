@@ -61,7 +61,7 @@
     }
   
     .g-elements--responsive {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
     }
   
     .g-elements--gallery {
